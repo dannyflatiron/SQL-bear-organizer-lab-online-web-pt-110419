@@ -6,4 +6,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Meliss
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 1, "male", "black", "angry", 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 1, "male", "black", "angry", 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 1, "male", "black", "angry", 0);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("NULL", 1, "male", "black", "angry", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 1, "male", "black", "angry", 0);
